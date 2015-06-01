@@ -19,9 +19,8 @@ Alla mallar/vyer i webbplatsen skall som allra minst:
 2. Anses vara mobilvänliga enligt Googles mobilvänlighetstest.
 3. Med exempelinnehåll uppvisa minst 80 av 100 i Google Pagespeed med mobila inställningar, och minst 90 för desktop.
 4. Max 2 CSS-filer laddas in.
-5. Strukturell CSS-kod inkluderas i HTML-koden enligt god prestanda-praxis för snabb initial visning av innehållet.
-6. Max 2 Javascript-filer laddas in.
-7. Använda CSS Sprites eller motsvarande teknik för att minska antalet bildfiler att ladda ner.
+5. Max 2 Javascript-filer laddas in.
+6. Använda CSS Sprites eller motsvarande teknik för att minska antalet bildfiler att ladda ner.
 
 Överenskommet 2015-06-xx  
 mellan  
