@@ -11,7 +11,7 @@ En leverans som misslyckas med dessa krav ska inte sättas i produktion och ska 
 3. Under 10 sekunder för komplett laddning av sida mätt på 3G-uppkoppling. 
 
 ## Lägstanivå på webb
-Dessa punkter beskriver den lägsta accepterade nivå för första iterationen av www.vgregion.se, den nivån får inte försämras under kommande uppdateringar, snarare ska dessa krav skärpas till löpande i samråd med utvecklarna.
+Dessa punkter beskriver den lägsta accepterade nivå för första iterationen av mikrowebben, den nivån får inte försämras under kommande uppdateringar, snarare ska dessa krav skärpas till löpande i samråd med utvecklarna.
 
 Alla mallar/vyer i webbplatsen skall som allra minst:
 
