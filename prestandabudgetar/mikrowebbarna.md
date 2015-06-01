@@ -1,4 +1,4 @@
-# Prestandabudget och mätbar webbkvalitet för www.vgregion.se 
+# Prestandabudget och mätbar webbkvalitet för VGR:s mikrowebbar 
 Detta är inledande dokumentation och överenskommelse kring piloterna som kör mikrowebbens mallar i Episerver. Exempelvis [dialys.vgregion.se](http://dialys.vgregion.se/)
 
 Läs nedan krav som att de mäts med representativt innehåll på testsidor utvecklarna tar fram inför avstämning med regionens utsedda webbanalytiker. Dessa testsidor ska inte kunna påverkas nämnvärt av VGR:s redaktörer mellan testtillfällena, de ska vara jämförbara över tid.
