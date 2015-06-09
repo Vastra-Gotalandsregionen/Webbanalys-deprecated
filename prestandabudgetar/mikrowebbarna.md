@@ -11,19 +11,18 @@ En leverans som misslyckas med dessa krav ska inte sättas i produktion och ska 
 3. Under 10 sekunder för komplett laddning av sida mätt på 3G-uppkoppling. 
 
 ## Lägstanivå på webb
-Dessa punkter beskriver den lägsta accepterade nivå för första iterationen av mikrowebben, den nivån får inte försämras under kommande uppdateringar, snarare ska dessa krav skärpas till löpande i samråd med utvecklarna.
+Dessa punkter beskriver den lägsta accepterade nivå för mikrowebben, den nivån får inte försämras under kommande uppdateringar, snarare ska dessa krav skärpas till löpande i samråd med utvecklarna.
 
 Alla mallar/vyer i webbplatsen skall som allra minst:
 
 1. Vara testade och säkrade mot WCAG 2 nivå AA.
 2. Anses vara mobilvänliga enligt Googles mobilvänlighetstest.
-3. Med exempelinnehåll uppvisa minst 80 av 100 i Google Pagespeed med mobila inställningar, och minst 90 för desktop.
-4. Max 2 CSS-filer laddas in.
-5. Max 2 Javascript-filer laddas in.
-6. Använda CSS Sprites eller motsvarande teknik för att minska antalet bildfiler att ladda ner.
+3. Med exempelinnehåll uppvisa minst 75 av 100 i Google Pagespeed med mobila inställningar, och minst 90 för dator.
+4. Ha 100 av 100 möjliga i användarupplevelse enligt Google Pagespeed mätt mobilt och dator.
+5. Max 2 CSS-filer laddas in.
+6. Max 3 Javascript-filer laddas in.
+7. Använda CSS Sprites eller motsvarande teknik för att minska antalet bildfiler att ladda ner.
 
-Överenskommet 2015-06-xx  
-mellan  
-Namn Namnsson, Företag  
-och  
+Kontrollerat 2015-06-09  
+av  
 Marcus Österberg, Västra Götalandsregionen
