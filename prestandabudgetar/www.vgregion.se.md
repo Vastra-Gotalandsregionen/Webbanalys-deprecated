@@ -11,7 +11,7 @@ En leverans som misslyckas med dessa krav ska inte sättas i produktion och ska 
  3. Värna om besökarnas integritet. Inga som helst tredjepartstjänster, exempelvis Google Analytics, sociala dela-knappar, etc.
 
 ## Mätbar prestandabudget
-1. Max 199kb för en sidvisning.
+1. Max 399kb för en sidvisning.
 2. Under 3 sekunder för komplett laddning av sida, mätt från gynnsam trådad uppkoppling. 
 3. Under 10 sekunder för komplett laddning av sida mätt på 3G-uppkoppling. 
 
