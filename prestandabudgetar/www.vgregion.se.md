@@ -1,4 +1,4 @@
-# Prestandabudget och mätbar webbkvalitet för www.vgregion.se (UTKAST)
+# Prestandabudget och mätbar webbkvalitet för www.vgregion.se
 Detta är inledande dokumentation och överenskommelse kring projektet för uppgradering till Episerver CMS samt det nya gränssnittet.
 
 Läs nedan krav som att de mäts med representativt innehåll på testsidor utvecklarna tar fram inför avstämning med projektets utsedda webbanalytiker. Dessa testsidor ska inte kunna påverkas nämnvärt av VGR:s redaktörer mellan testtillfällena, de ska vara jämförbara över tid.
@@ -28,8 +28,4 @@ Alla mallar/vyer/komponenter i webbplatsen skall som allra minst:
 6. Använda CSS Sprites (eller motsvarande teknik) för att minska antalet bildfiler att ladda ner.
 7. Strukturell CSS-kod inkluderas i HTML-koden enligt god prestanda-praxis för snabb initial visning av innehållet.
 
-Överenskommet 2015-xx-xx  
-mellan  
-Namn Namnsson, Företag  
-och  
-Namn Namnsson, Västra Götalandsregionen
+*// Beslutad 2015-10-06*
