@@ -1,0 +1,252 @@
+﻿body {
+    background: none repeat scroll 0 0 Transparent;
+    font: 12px Times new Roman,serif;
+}
+#PageContent {
+    background: none repeat scroll 0 0 transparent;
+    height: auto;
+    overflow: visible;
+    width: auto;
+}
+#PageContentInner {
+    background: none repeat scroll 0 0 transparent;
+    border: medium none;
+    height: auto;
+    overflow: visible;
+    width: auto;
+}
+.PrintLogo {
+    clear: both;
+    display: block;
+    max-height: 51px;
+    margin-bottom: 10px;
+    text-align: left;
+    visibility: visible;
+    width: 100%;
+}
+#header, #TopMenu, #breadcrumbs, #LeftMenu, #LeftMenuBottom, #footer, .ImageFlow, div.scrollable, .hiddenQuickLinks, .NewsImg {
+    display: none;
+    visibility: hidden;
+}
+#leftcol {
+    page-break-after: auto;
+}
+#InfoMainContent.LeftCenterRight #centercol, #InfoMainContent.LeftCenterRight #centercol #centercolinner {
+    clear: both;
+    height: auto;
+    margin-left: 0;
+    margin-top: 0;
+    overflow: visible;
+    padding-bottom: 0;
+    text-align: left;
+    width: 600px;
+}
+#InfoMainContent.LeftCenterRight #rightcol, #InfoMainContent.CenterRight #rightcol {
+    clear: both;
+    display: block;
+    float: left;
+    overflow: visible;
+    width: 600px;
+}
+.RightColumnBlock .InfoBlock {
+    display: block;
+    height: auto;
+    width: auto;
+}
+.News {
+    clear: both;
+    float: none;
+    margin-top: 10px;
+}
+.NewsList {
+    background: none repeat scroll 0 0 transparent;
+    border: medium none;
+    clear: both;
+    float: none;
+    margin-top: -10px;
+    overflow: visible;
+}
+.NewsList ul {
+    clear: both;
+    float: none;
+    list-style: none outside none;
+    margin: 0;
+    overflow: visible;
+}
+.NewsList li, .NewsList li.LinkList, #centercolinner .NewsList li, #centercolinner .NewsList li.LinkList {
+    border-bottom: 1px solid #CDCDCD;
+    clear: both;
+    float: none;
+}
+.NewsList li.LinkList {
+    margin: 0;
+    padding: 0;
+}
+.NewsList ul li a:link, .NewsList ul li a:visited, .NewsBottom a:link {
+    color: #000000;
+}
+.NewsWrapper {
+    clear: both;
+    float: none;
+    margin: 0;
+    width: auto;
+}
+.NewsContent {
+    clear: both;
+    display: block;
+    float: none;
+    margin: 0;
+    overflow: visible;
+}
+.NewsHeader, .LevaBo {
+    background: none repeat scroll 0 0 transparent;
+    height: auto;
+    margin-top: 0;
+    text-align: left;
+    width: 60%;
+}
+.NewsHeader h2, .LevaBo h2 {
+    color: #000000;
+    display: block;
+    font-weight: bold;
+    margin-top: 0;
+    padding-top: 0;
+}
+* html .NewsHeader h2, * html .LevaBo h2 {
+    color: #000000;
+    display: block;
+    padding-top: 0;
+}
+span.NewsDate {
+    color: #000000;
+    font: bold 12px Times new Roman,serif;
+}
+.NewsBottom {
+    display: none;
+}
+.NewsList li, .NewsList li.LinkList, #centercolinner .NewsList li, #centercolinner .NewsList li.LinkList {
+    margin: 0;
+}
+.Bildtext {
+    color: #000000;
+    font-weight: normal;
+    line-height: normal;
+    margin-top: 10px;
+    width: 430px;
+}
+h1, h2, h3, h4 {
+    color: Black;
+}
+#centercolinner a.arrow, a:link, a.doc:link, a.xls:link, a.ppt:link, a.pdf:link, a.sign:link, #centercolinner a.arrow, a.doc:visited, a.xls:visited, a.ppt:visited, a.pdf:visited, a.sign:visited {
+    background: none repeat scroll 0 0 transparent;
+    color: Black !important;
+    line-height: normal;
+    margin-left: 0;
+    padding: 0;
+    text-decoration: underline !important;
+}
+.InfoBlock, .leftcol, .centercol, .rightcol {
+    clear: both;
+    display: block;
+    float: none;
+    overflow: visible;
+}
+.InfoDefault, .InfoBlockWithTopMargin {
+    border: medium none;
+    overflow: visible;
+}
+
+
+/* -------------- print.css Intranet ------------------ */
+
+#page {
+    background: none repeat scroll 0 0 transparent;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    min-width: 0;
+    text-align: left;
+    width: 100%;
+    }
+    
+#PageContent {
+    min-height: 0;
+    padding-left: 0;
+    text-align: left;
+    }
+
+#PageContentInner {
+    padding-right: 0;
+    text-align: left;
+    min-height: 0;
+    }
+    
+.showHideEditButtons, .showHideEditText {
+	display: none;
+}
+
+#InfoMainContent {
+    padding-bottom: 0;
+    text-align: left;
+    }
+
+#InfoMainContent.LeftCenterRight #centercol, #InfoMainContent.LeftCenterRight #centercol #centercolinner {
+    width: 100%;
+    }
+    
+#InfoMainContent.LeftCenterRight #rightcol, #InfoMainContent.CenterRight #rightcol {
+    width: 100%;
+}
+
+.rightcolinner {
+    min-height: 0;
+}
+
+.DokumentContent, .RelateratContent, .SignLanguageMovieContent, .RightblockEditorContent {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 100%;
+}
+
+.relaterat, .dokument, .RightColumnBlock .News, .RightColumnBlock .NewsHeader h2, .InfoBlock h1, .InfoBlock h2, .InfoBlock h3, .InfoBlock h4, a.LinkText {
+    background: none repeat scroll 0 0 transparent;
+    height: auto;
+    line-height: normal;
+    text-align: left;
+    width: 100%;
+    color: #000;
+    margin: 0;
+    border:0;
+}
+
+.RightColumnBlock .InfoBlock {
+    text-align: left;
+    }
+
+.RightColumnBlock .NewsHeader {
+	background: none;
+}
+
+.RightColumnBlock .NewsHeader h2  {
+	padding-left: 0;
+}
+
+.WrapperDiv .KivDataWrapper {
+    float:none;
+    display: block;
+}
+
+.LeftMenuBottom {
+    display: none;
+}
+
+ .RightColumnBlock .center {
+     float: left;   
+ }
+
+ .KivLinkedList {
+     display: none;
+ }
+ 
