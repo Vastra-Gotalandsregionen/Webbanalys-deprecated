@@ -9,4 +9,4 @@ Under 2015-2016 pågår en uppgradering av vgregion.se från Episerver 6 till de
 När en pilotversion av kommande externwebb finns kommer där sättas upp fler testsidor för att börja hålla koll på de olika mallar som erbjuds.
 
 ## Licens på innehållet
-Glömde dessvärre lägga med en licensfil till detta repo. Givetvis är allt vi har rätt att ge bort 
+Glömde dessvärre lägga med en licensfil till detta repo. Givetvis är [allt vi har rätt att ge bort under CC-BY-SA, läs mer i LICENSE.md](LICENSE.md)
