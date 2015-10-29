@@ -8,7 +8,6 @@ En leverans som misslyckas med dessa krav ska inte sättas i produktion och ska 
 ## Värderingar, prioriteringar och prestation för hela webbplatsen
  1. Följa designkonventionerna [progressive enhancement](https://en.wikipedia.org/wiki/Progressive_enhancement) samt mobile first, det vill säga fokusera på tillgänglighet först och finess sen, samt att det är det mobila scenariot som sätter behoven kring design och funktion.
  2. Funktion före form, och upplevelsen framför teknikaliteter. Det vill säga inkluderande design, både för funktionsnedsattas möjlighet att delta men också för att nå så många sorters utrustning som möjligt.
- 3. Värna om besökarnas integritet. Inga som helst tredjepartstjänster, exempelvis Google Analytics, sociala dela-knappar, etc.
 
 ## Mätbar prestandabudget
 1. Max 399kb för en sidvisning.
