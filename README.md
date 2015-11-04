@@ -10,3 +10,9 @@ När en pilotversion av kommande externwebb finns kommer där sättas upp fler t
 
 ## Licens på innehållet
 Glömde dessvärre lägga med en licensfil till detta repo. Givetvis är [allt vi har rätt att ge bort under CC-BY-SA, läs mer i LICENSE.md](LICENSE.md)
+
+## Om vår öppna dokumentation
+Dokumentation skrivs i formatet [Markdown](http://en.wikipedia.org/wiki/Markdown) dels för att det är normen på Github men också för att det är ett fritt format som fokuserar på innehållet och kan konverteras till många andra format.
+
+## Mer under Öppna program
+För att ta del av [VGR:s samlade dokumentation, öppna källkod-projekt och mycket mer går du till **Öppna Program** på Github](http://vastra-gotalandsregionen.github.io/oppna-program/).
