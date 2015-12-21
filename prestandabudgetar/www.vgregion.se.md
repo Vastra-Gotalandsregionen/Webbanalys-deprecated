@@ -1,5 +1,5 @@
 # Prestandabudget och mätbar webbkvalitet för www.vgregion.se
-Detta är inledande dokumentation och överenskommelse kring projektet för uppgradering till Episerver CMS samt det nya gränssnittet.
+Detta är inledande dokumentation och överenskommelse kring projektet för uppgradering till Episerver CMS samt det nya gränssnittet. [Prestandabudgeten lever också ett liv som en bilaga i den regionala stilguiden](http://vastra-gotalandsregionen.github.io/vgr-styleguide/guidelines/prestandabudget/).
 
 Läs nedan krav som att de mäts med representativt innehåll på testsidor utvecklarna tar fram inför avstämning med projektets utsedda webbanalytiker. Dessa testsidor ska inte kunna påverkas nämnvärt av VGR:s redaktörer mellan testtillfällena, de ska vara jämförbara över tid.
 
