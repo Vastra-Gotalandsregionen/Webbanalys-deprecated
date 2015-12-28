@@ -1,5 +1,8 @@
 # Webbanalys inom Öppna program
-Metoder, verktyg och dokumentation som rör arbetet med webbanalys. Bland annat prestandabudgetar för webbprojekt.
+*Metoder, verktyg och dokumentation som rör arbetet med webbanalys. Bland annat prestandabudgetar för webbprojekt.*
+
+## Om VGRs dokumenterade webbanalys
+Innehåll i detta repo syftar till att samverka med externa parter om hur man bäst bedriver ett strategiskt webbanalysarbete. Alla är med andra ord välkomna att bidra, må så vara att du vill forka, göra pull-requests, eller mejla (se kontaktuppgifter längst ner).
 
 För närvarande finns en [beslutad prestandabudget för vgregion.se](https://github.com/Vastra-Gotalandsregionen/Webbanalys/blob/master/prestandabudgetar/www.vgregion.se.md) att titta på samt en [nollmätning av befintlig externwebb för vgregion.se](https://github.com/Vastra-Gotalandsregionen/Webbanalys/tree/master/m%C3%A4tningar/vgregion.se/2015-10-09%20nollm%C3%A4tning)
 
@@ -11,10 +14,12 @@ Under 2015-2016 pågår en uppgradering av vgregion.se från Episerver 6 till de
 När en pilotversion av kommande externwebb finns kommer där sättas upp fler testsidor för att börja hålla koll på de olika mallar som erbjuds.
 
 ## Licens på innehållet
-Glömde dessvärre lägga med en licensfil till detta repo. Givetvis är [allt vi har rätt att ge bort under CC-BY-SA, läs mer i LICENSE.md](LICENSE.md)
+Givetvis är [allt vi har rätt att ge bort under CC-BY-SA, läs mer i LICENSE.md](LICENSE.md)
+
+## Mer under Öppna program
+För att ta del av [VGR:s samlade dokumentation, öppna källkod-projekt och mycket mer går du till **Öppna Program** på Github](http://vastra-gotalandsregionen.github.io/oppna-program/).
 
 ## Om vår öppna dokumentation
 Dokumentation skrivs i formatet [Markdown](http://en.wikipedia.org/wiki/Markdown) dels för att det är normen på Github men också för att det är ett fritt format som fokuserar på innehållet och kan konverteras till många andra format.
 
-## Mer under Öppna program
-För att ta del av [VGR:s samlade dokumentation, öppna källkod-projekt och mycket mer går du till **Öppna Program** på Github](http://vastra-gotalandsregionen.github.io/oppna-program/).
+Kurator för detta repo är [Marcus Österberg](https://se.linkedin.com/in/marcusosterberg), fornamn.efternamn@vgregion.se
