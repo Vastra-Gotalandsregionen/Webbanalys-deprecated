@@ -23,6 +23,8 @@ Givetvis är [allt vi har rätt att ge bort under CC-BY-SA, läs mer i LICENSE.m
 ## Mer under Öppna program
 För att ta del av [VGR:s samlade dokumentation, öppna källkod-projekt och mycket mer går du till **Öppna Program** på Github ›](http://vastra-gotalandsregionen.github.io/oppna-program/)
 
+Vill du ta del av verktyg för att mäta efterlevnad till prestandabudget finns [projektet Verifierad.nu](https://github.com/Vastra-Gotalandsregionen/verifierad.nu)
+
 ## Om vår öppna dokumentation
 Dokumentation skrivs i formatet [Markdown](http://en.wikipedia.org/wiki/Markdown) dels för att det är normen på Github men också för att det är ett fritt format som fokuserar på innehållet och kan konverteras till många andra format.
 
