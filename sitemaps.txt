@@ -1,6 +1,5 @@
 Finns:
 http://www.vgregion.se/sitemap.xml
-https://www.sahlgrenska.se/sitemap.xml
 https://www.narhalsan.se/sitemap.xml
 https://folktandvarden.vgregion.se/sitemap.xml
 http://vastarvet.se/sitemap.xml
@@ -18,14 +17,14 @@ http://www.regionteatervast.se/sitemap.xml
 http://www.forsviksbruk.se/sitemap.xml
 http://www.vgrfolkhogskolor.se/sitemap.xml
 http://www.vasttrafik.se/KnowITPlugIn/SearchEngineSitemaps.SiteMapIndex.aspx?SiteMapIndex_www.vasttrafik.se_en_.xml
-
 http://sas.vgregion.se/sitemap.xml
 https://www.gothiaforum.com/sitemap.xml
-http://www.t-d.se/EPiServerUtilPlugIn/sitemapindex.aspx?sitemapindex_www.t-d.se_sv_.xml
 http://vasterhavsveckan.se/sitemap_index.xml
-http://www.ebiblioteket.vgregion.se/EPiServerUtilPlugIn/sitemapindex.aspx?sitemapindex_www.ebiblioteket.vgregion.se_sv_.xml
 http://www.samverkanvg.se/EPiServerUtilPlugIn/sitemapindex.aspx?sitemapindex_www.samverkanvg.se_sv_.xml
+http://www.ebiblioteket.vgregion.se/EPiServerUtilPlugIn/sitemapindex.aspx?sitemapindex_www.ebiblioteket.vgregion.se_sv_.xml
 http://www.valdinararelationer.se/EPiServerUtilPlugIn/sitemapindex.aspx?sitemapindex_www.valdinararelationer.se_sv_.xml
+http://www.t-d.se/EPiServerUtilPlugIn/sitemapindex.aspx?sitemapindex_www.t-d.se_sv_.xml
+https://www.sahlgrenska.se/sitemap.xml
 http://www.vasttrafik.se/KnowITPlugIn/SearchEngineSitemaps.SiteMapIndex.aspx?SiteMapIndex_www.vasttrafik.se_sv_.xml
 
 Saknas:
