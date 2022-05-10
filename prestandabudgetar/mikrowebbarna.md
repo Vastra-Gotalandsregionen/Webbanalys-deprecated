@@ -24,7 +24,7 @@ Alla mallar/vyer i webbplatsen skall som allra minst:
 7. Använda CSS Sprites eller motsvarande teknik för att minska antalet bildfiler att ladda ner.
 
 ## *Kontroll 2015-12-08*
-kolskolan.vgregion.se kontrollerat 2015-12-08 av [Marcus Österberg Tavelin](https://twitter.com/marcustavelin), Västra Götalandsregionen, genom stickprov.
+kolskolan.vgregion.se kontrollerat 2015-12-08 av [Marcus Österberg](https://twitter.com/marcusosterberg), Västra Götalandsregionen, genom stickprov.
 
 Nedsparad dokumentation finns under mappen [/mätningar/kolskolan.vgregion.se](https://github.com/Vastra-Gotalandsregionen/Webbanalys/tree/master/m%C3%A4tningar/kolskolan.vgregion.se)
 
